@@ -1,0 +1,12 @@
+var numbers = {
+	10: "Diez",
+	9: "Nueve",
+	8: "Ocho",
+	7: "Siete",
+	6: "Seis",
+	5: "Cinco",
+	4: "Cuatro",
+	3: "Tres",
+	2: "Dos",
+	1: "Un"
+};

@@ -1,0 +1,6 @@
+var sufijos = {
+	1000000000000: "Trillones",
+	1000000000: "Billones",
+	1000000: "Millones",
+	1000: "Mil"
+};
